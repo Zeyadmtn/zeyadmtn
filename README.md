@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="left">
+<table align="center">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -146,7 +146,7 @@
   </tr>
 </table>
 </img>
-<br>
+
 ---
 
 
