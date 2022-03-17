@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmtn&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadmtn" /> </p>
 
-- 🔭 I’m currently working as a **freelance React.js developer**
+- 🔭 Currently working as a **freelance React.js developer**
 
-- 🌱 I’m currently learning **Node.js, MondoDB, Next.js**
+- 🌱 Learning **Node.js, MondoDB, Next.js**
 
 - 👨‍💻 I love messing around with Azure and building AI solutions in my spare time.
+
+- 🎓 Currently studying Software Engineering at the **Unviersity of Technology, Malaysia**
 
 
 - 📫 How to reach me **zeyadmtn@gmail.com**
