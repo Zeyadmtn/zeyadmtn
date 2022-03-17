@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmtn&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadmtn" /> </p>
 
-- 🔭 I’m currently working on [Freelancing]
+- 🔭 I’m currently working as a **freelance React.js developer**
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
+- 🌱 I’m currently learning **Node.js, MondoDB, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
+- 👨‍💻 I love messing around with Azure and building AI solutions in my spare time.
 
 
 - 📫 How to reach me **zeyadmtn@gmail.com**
