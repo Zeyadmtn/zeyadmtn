@@ -150,6 +150,6 @@
 
   <summary> ✌️ My GitHub Analytics </summary>
 <p>&nbsp;<img width="100%" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
-<p><img width="100%" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=algolia" /></p>
+<p><img width="100%" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=github" /></p>
 
 
