@@ -147,9 +147,9 @@
 ---
 
   <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="300px" height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadmtn&show_icons=true&locale=en&layout=compact&theme=radical" alt="zeyadmtn" /></p>
-<p>&nbsp;<img width="300px" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=radical" alt="zeyadmtn" /></p>
-<p><img width="300px" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadmtn&theme=radical" alt="zeyadmtn" /></p>
-<p><img width="300px" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=github" /></p>
+<p><img width="100%" height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadmtn&show_icons=true&locale=en&layout=compact&theme=radical" alt="zeyadmtn" /></p>
+<p>&nbsp;<img width="100%" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=radical" alt="zeyadmtn" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadmtn&theme=radical" alt="zeyadmtn" /></p>
+<p><img width="100%" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=github" /></p>
 
 
