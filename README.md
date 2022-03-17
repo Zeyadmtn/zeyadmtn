@@ -8,6 +8,8 @@
 
 - 🌱 Learning **Node.js, MondoDB, Next.js**
 
+- ⭐ Mirosoft GitHub Contributor
+
 - 👨‍💻 I love messing around with Azure and building AI solutions in my spare time.
 
 - 🎓 Currently studying Software Engineering at the **Unviersity of Technology, Malaysia**
