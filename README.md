@@ -1,5 +1,5 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Zeyad Naguib</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeyad Naguib</h1>
 <h3 align="center">Front-End Developer from the sleepless city of Cairo, Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmtn&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadmtn" /> </p>
