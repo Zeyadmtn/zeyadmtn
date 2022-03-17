@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="/images/header.png" height="175px">
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeyad Naguib</h1>
 <h3 align="center">Front-End Developer from the sleepless city of Cairo, Egypt</h3>
 
@@ -148,11 +148,8 @@
 </img>
 ---
 
-  <summary> ✌️ My GitHub Analytics </summary>
+  <summary> ✌️ My GitHub Stats </summary>
 <p>&nbsp;<img width="100%" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
 <p><img width="100%" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=nord" /></p>
-
-
-<img width="100%" height="auto" src="/images/footer.png" height="175px"/>
 
 
