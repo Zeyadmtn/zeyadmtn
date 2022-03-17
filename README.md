@@ -149,9 +149,8 @@
 
 ---
 
-
-✌️ My GitHub Stats
-<p><img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
+<h3 align="left">✌️ My GitHub Stats</h3>
+<p align="center"><img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
 
 
 
