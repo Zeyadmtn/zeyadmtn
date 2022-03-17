@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="/images/header.png" height="175px">
+<img width="100%" height="auto" src="/images/header.png" height="175px" position="absolute">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeyad Naguib</h1>
 <h3 align="center">Front-End Developer from the sleepless city of Cairo, Egypt</h3>
 
