@@ -145,13 +145,13 @@
     </td>
   </tr>
 </table>
-
+</img>
 ---
 
   <summary> ✌️ My GitHub Analytics </summary>
 <p>&nbsp;<img width="100%" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
 <p><img width="100%" height="300px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=nord" /></p>
-</img>
+
 
 <img width="100%" height="auto" src="/images/footer.png" height="175px"/>
 
