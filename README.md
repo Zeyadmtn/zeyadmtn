@@ -150,8 +150,8 @@
 ---
 
 
-  <summary> ✌️ My GitHub Stats </summary>
-<p>&nbsp;<img width="100%" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
+✌️ My GitHub Stats
+<p>&nbsp;<img width="100%" height="150px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
 <p><img width="100%" height="150px" alt="Zeyad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=nord" /></p>
 
 
