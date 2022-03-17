@@ -151,7 +151,7 @@
 
 
 ✌️ My GitHub Stats
-<p>&nbsp;<img width="100%" height="150px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
-<p><img width="100%" height="150px" alt="Zeyad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeyadmtn&theme=nord" /></p>
+<img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" />
+
 
 
