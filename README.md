@@ -35,7 +35,7 @@
 ---
 
 <h3 align="left">✌️ My GitHub Stats</h3>
-<p align="center"><img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=algolia" alt="zeyadmtn" /></p>
+<p align="center"><img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=default" alt="zeyadmtn" /></p>
 
 
 
