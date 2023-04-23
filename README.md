@@ -10,7 +10,7 @@
 
 - 👨‍💻 I love messing around with Azure and building AI solutions in my spare time.
 
-- 🎓 Currently studying Software Engineering at the **Unviersity of Technology, Malaysia**
+- 🎓 Bachelor's of Computer Science in Software Engineering at the **Unviersity of Technology, Malaysia**
 
 
 - 📫 How to reach me **zeyadmtn@gmail.com**
