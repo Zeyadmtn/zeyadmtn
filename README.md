@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/zeyadmtn@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:zeyadmtn@gmail.com">
-<a  href="https://www.instagram.com/zeyadmtn/"><img src="https://img.shields.io/badge/@zeyadmtn_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/zeyad-naguib/"><img src="https://img.shields.io/badge/Zeyad Naguib-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a  href="https://medium.com/@zeyadmtn"><img src="https://img.shields.io/badge/@zeyadmtn-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
