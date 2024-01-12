@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmtn&label=Profile%20views&color=3ec7e1&style=flat" alt="zeyadmtn" /> </p>
 
-- 🔭 Currently working as a **freelance React and Laravel developer**
+- 🔭 Currently working as a **Full Stack Software Engineer**
 
-- ⭐ Mirosoft GitHub Contributor
+- ⭐ Microsoft GitHub Contributor
 
 - 👨‍💻 I love messing around with Azure and building AI solutions in my spare time.
 
-- 🎓 Bachelor's of Computer Science in Software Engineering at the **Unviersity of Technology, Malaysia**
+- 🎓 Bachelor's of Computer Science in Software Engineering at the **University of Technology, Malaysia**
 
 
 - 📫 How to reach me **zeyadmtn@gmail.com**
@@ -23,9 +23,3 @@
 
 </p>
 ---
-
-<h3 align="left">✌️ My GitHub Stats</h3>
-<p align="center"><img width="auto" height="250px"src="https://github-readme-stats.vercel.app/api?username=zeyadmtn&show_icons=true&locale=en&theme=default" alt="zeyadmtn" /></p>
-
-
-
